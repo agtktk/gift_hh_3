@@ -4,7 +4,7 @@ export const siteConfig = {
   siteDescription: 'lg상품권 최고가 매입 보장. 엘지 유플러스 상품권 및 모바일 결제를 365일 24시간 안전하게 진행하세요.',
   author: '희망티켓 010-9469-1051',
   defaultImage: '/images/sample.png',
-  naverVerificationCode: '',
+  naverVerificationCode: 'a03728635c4651606148e7431c65fdf54f2822f2',
   googleVerificationCode: '',
   company: '희망티켓',
   phone: '01094691051',
